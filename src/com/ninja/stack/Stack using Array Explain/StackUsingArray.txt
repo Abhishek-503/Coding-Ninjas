@@ -1,0 +1,39 @@
+package stacks;
+
+public class StackUsingArray{
+
+    private int data[];
+    private int topIndex;  //Index of the top most element of the stack
+
+    public StackUsingArray(){
+        data= new int[10];
+        topIndex=-1;
+    }
+
+    public int size(){
+
+
+    }
+
+    public boolean isEmpty(){
+
+
+    }
+
+    public void push(int elem){
+
+
+    }
+
+    public int top(){
+
+
+    }
+
+    public int pop(){
+
+
+    }
+
+
+}
